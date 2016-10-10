@@ -1,17 +1,24 @@
 @charset "UTF-8";
 
 body {
-	background: #00b300;
+	background: #0040ff;
 	font: 100% Georgia, Times, serif;
 }
+
 h1 {
 	font: 300% Arial, Helvetica, sans-serif;
-	color: grey;
+	color: #ff0000;
+}
+
+h2 {
+	font: 150% Arial, Helvetica, sans-serif;
+	color: #00ffbf;
 }
 
 p {
-	color: darkblue;
+	color: #ff0000;
 }
+
 #wrapper {
 	width: 1100px;
 	margin: 0 auto;
@@ -57,7 +64,6 @@ section#content {
 	width: 600px;
 	padding: 0 10px 0 25px;
 	margin-bottom: 10px;
-	border-right: 1px solid #7f7f7f;
 }
 
 section#content p {
